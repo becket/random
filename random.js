@@ -7,3 +7,5 @@ if (numero <= 0.5) {
 else {
 	console.log('\n' + numero + ' MAYOR que 0,5 \n');
 }
+// Comentario para cambio version 
+//Se actualiza en sublime, que bueno
